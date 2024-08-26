@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active {
+  @apply text-cyan-800 font-semibold border-b-2 border-cyan-700;
+}
